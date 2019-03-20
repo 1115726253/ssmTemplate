@@ -16,6 +16,5 @@ public class Test01 {
     @ResponseBody
     public String hello(){
        return "hello";
-
     }
 }
